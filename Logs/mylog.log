@@ -1,0 +1,651 @@
+[INFO ] 2023-11-10 11:03:59.775 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 11:03:59.946 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 11:04:00.032 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 11:04:00.988 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 11:04:01.017 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 11:05:24.312 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 11:05:24.481 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 11:05:24.564 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 11:05:25.527 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 11:05:25.562 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 11:08:07.709 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 11:08:07.912 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 11:08:07.988 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 11:08:08.942 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 11:08:08.977 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 11:13:10.920 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 11:13:11.065 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 11:13:11.131 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 11:13:13.824 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 11:13:13.856 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 11:14:13.804 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 11:14:13.966 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 11:14:14.041 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 11:14:14.920 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 11:14:14.952 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 11:34:01.011 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 11:34:01.168 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 11:34:01.247 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 11:34:02.292 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 11:34:02.325 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 11:52:09.329 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 11:52:11.344 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 11:52:11.547 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 12:16:20.487 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:16:20.590 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:16:20.664 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:16:21.649 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:16:21.691 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 12:16:34.648 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:16:34.847 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:16:34.924 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:16:36.373 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:16:36.406 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 12:18:58.476 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:18:58.627 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:18:58.706 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:18:59.872 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:25:05.484 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:25:05.642 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:25:05.721 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:25:06.288 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:30:26.148 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:30:26.312 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:30:26.386 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:30:26.855 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:31:33.922 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:31:34.102 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:31:34.186 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:31:34.677 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:32:34.479 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:32:34.646 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:32:34.726 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:32:35.760 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:32:35.793 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 12:34:29.788 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:34:29.958 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:34:30.027 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:34:30.957 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:34:30.994 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 12:37:50.954 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:37:51.118 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:37:51.202 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:37:52.189 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:37:52.229 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 12:38:59.221 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:38:59.397 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:38:59.473 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:39:01.309 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:39:01.352 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 12:43:19.410 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 12:43:19.564 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 12:43:19.650 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 12:43:20.644 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 12:43:20.674 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 12:49:11.284 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 12:49:13.297 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 12:49:13.477 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 12:49:16.611 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:02:15.026 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:02:15.188 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:02:15.267 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:02:17.253 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:02:17.285 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:03:11.472 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:03:11.635 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:03:11.706 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:03:12.620 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:03:12.649 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:04:08.842 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:04:09.011 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:04:09.083 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:04:11.779 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:04:11.812 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:05:40.072 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:05:40.255 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:05:40.342 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:05:41.420 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:05:41.448 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:08:32.811 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:08:33.005 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:08:33.082 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:08:33.994 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:08:34.027 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:10:59.060 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:10:59.229 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:10:59.307 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:11:00.281 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:11:00.315 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 13:11:38.577 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:11:38.732 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:11:38.809 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:11:39.805 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:11:39.839 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:16:15.264 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:16:15.437 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:16:15.521 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:16:17.170 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:16:17.203 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 13:17:06.646 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 13:17:06.813 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 13:17:06.891 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 13:17:08.602 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 13:17:08.635 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:16:17.928 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:16:18.116 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:16:18.347 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:16:19.513 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:16:19.525 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:16:19.561 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:16:19.825 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:16:19.948 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:16:20.908 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:16:20.917 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:21:06.093 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:21:06.271 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:21:06.348 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:21:09.278 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:21:09.286 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:23:10.148 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:23:10.314 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:23:10.390 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:23:11.355 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:23:11.364 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:25:48.183 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:25:48.371 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:25:48.449 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:25:50.420 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:25:50.429 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 14:26:16.191 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:26:16.355 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:26:16.430 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:26:17.459 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:26:17.466 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:26:57.717 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:26:57.883 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:26:57.960 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:26:59.772 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:26:59.785 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:31:36.580 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:31:36.758 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:31:36.832 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:31:37.341 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:31:37.349 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:33:55.689 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:33:55.846 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:33:55.919 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:33:58.195 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:33:58.202 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:39:54.493 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:39:54.668 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:39:54.742 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:39:57.677 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:39:57.688 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 14:43:06.444 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:43:06.612 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:43:06.697 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:43:15.241 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:43:15.250 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 14:46:05.938 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:46:06.128 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:46:06.211 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:46:16.442 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:46:16.452 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 14:47:32.339 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:47:32.506 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:47:32.601 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:47:41.955 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:47:41.965 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 14:48:31.730 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:48:31.887 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:48:31.961 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:48:32.553 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:48:32.565 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 14:54:04.058 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 14:54:04.218 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 14:54:04.289 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 14:54:04.946 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 14:54:04.953 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 15:48:03.263 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 15:48:03.444 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 15:48:03.548 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 15:48:04.130 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 15:48:04.144 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 15:49:03.653 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 15:49:03.822 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 15:49:03.918 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 15:49:05.687 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 15:49:05.692 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 15:50:58.866 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 15:50:59.048 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 15:50:59.131 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 15:50:59.813 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 15:50:59.828 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 16:13:52.232 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:13:52.401 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:13:52.485 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:13:56.903 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:13:56.914 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 16:17:01.043 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:17:01.230 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:17:01.313 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:17:02.543 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:17:02.551 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 16:19:59.661 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:19:59.825 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:19:59.907 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:20:02.091 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:20:02.102 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 16:25:39.453 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:25:39.601 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:25:39.672 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:25:40.647 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:25:40.658 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 16:34:17.878 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:34:18.025 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:34:18.101 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:34:20.474 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:34:20.488 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 16:35:33.561 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:35:33.713 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:35:33.780 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:35:34.991 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:35:35.002 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 16:41:20.512 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:41:20.668 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:41:20.738 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:41:21.650 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:41:21.659 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 16:43:27.994 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 16:43:28.179 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 16:43:28.279 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 16:43:30.211 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 16:43:30.221 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 20:56:25.027 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 20:56:25.172 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 20:56:25.247 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 20:56:27.250 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 20:57:14.965 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 20:57:15.109 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 20:57:15.185 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 20:57:15.764 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:00:38.210 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:00:38.598 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:00:38.763 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:00:39.974 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:01:30.060 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:01:30.174 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:01:30.274 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:01:31.010 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:04:16.027 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:04:16.181 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:04:16.260 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:04:17.366 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:04:17.405 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:04:34.063 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:04:34.278 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:04:34.430 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:04:36.551 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:04:36.580 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:07:03.751 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:07:03.910 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:07:03.994 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:07:06.664 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:07:06.698 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:07:20.551 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:07:20.717 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:07:20.796 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:07:21.773 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:07:21.801 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:09:41.328 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:09:41.470 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:09:41.585 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:09:44.485 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:09:44.532 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:10:09.092 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:10:09.238 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:10:09.306 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:10:13.157 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:10:13.185 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:17:37.187 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:17:37.364 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:17:37.434 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:17:39.264 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:17:39.300 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:17:59.044 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:17:59.202 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:17:59.269 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:18:01.571 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:18:01.601 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:21:13.162 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:21:13.322 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:21:13.392 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:21:16.234 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:21:16.272 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:21:40.269 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:21:40.421 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:21:40.489 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:21:42.387 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:21:42.412 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:27:36.482 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:27:36.611 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:27:36.700 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:27:39.032 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:27:39.071 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:28:02.739 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:28:02.883 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:28:02.955 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:28:04.950 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:28:04.980 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:30:41.970 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:30:42.071 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:30:42.140 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:30:43.699 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:30:43.730 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:31:13.204 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:31:13.294 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:31:13.362 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:31:13.932 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:33:43.970 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:33:44.136 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:33:44.203 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:33:47.339 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:33:47.487 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:34:11.490 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:34:11.580 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:34:11.647 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:34:18.897 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:36:31.044 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:36:31.209 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:36:31.281 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:36:33.385 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:36:33.425 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 21:36:58.564 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:36:58.730 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:36:58.806 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:36:59.323 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:42:44.075 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:42:44.238 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:42:44.330 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:42:45.257 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:43:39.273 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:43:39.431 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:43:39.505 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:43:40.164 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:51:47.869 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:51:48.032 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:51:48.106 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:51:49.316 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 21:53:22.815 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 21:53:22.919 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 21:53:23.001 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 21:53:24.022 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:13:48.453 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 22:13:50.465 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 22:13:50.639 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 22:14:15.037 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 22:14:17.043 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 22:14:17.237 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 22:18:23.533 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 22:18:25.553 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 22:18:25.742 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 22:19:38.208 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 22:19:40.224 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 22:19:40.411 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 22:20:02.673 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 22:20:04.680 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 22:20:04.831 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 22:22:28.617 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 22:22:30.630 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 22:22:30.824 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 22:22:59.934 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign
+[INFO ] 2023-11-10 22:23:01.937 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on acount page
+[INFO ] 2023-11-10 22:23:02.095 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - fill the detail information
+[INFO ] 2023-11-10 22:30:32.932 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:30:33.099 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:30:33.196 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:30:35.482 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:30:35.515 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 22:31:07.063 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:31:07.226 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:31:07.314 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:31:10.119 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:31:10.155 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 22:39:54.747 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:39:54.825 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:39:54.875 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:39:56.189 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:39:56.217 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 22:42:08.407 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:42:08.463 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:42:08.488 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:42:12.399 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:42:12.427 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 22:44:50.976 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:44:51.074 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:44:51.117 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:44:56.487 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:44:56.514 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 22:50:12.246 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:50:12.337 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:50:12.372 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:50:13.478 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:50:13.507 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 22:55:14.659 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:55:14.718 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:55:14.740 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:55:15.714 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:55:15.739 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 22:55:18.349 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 22:55:18.417 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 22:55:18.448 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 22:55:19.261 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 22:55:19.279 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:04:42.309 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:04:42.386 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:04:42.435 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:04:43.354 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:04:43.386 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 23:04:44.969 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:04:45.007 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:04:45.036 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:04:47.217 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:04:47.240 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:16:36.583 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:16:36.676 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:16:36.710 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:16:39.855 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:16:39.890 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 23:16:42.121 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:16:42.169 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:16:42.194 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:16:44.063 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:16:44.080 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:18:55.690 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:18:55.768 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:18:55.794 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:18:58.039 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:18:58.072 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 23:19:05.899 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:19:05.947 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:19:05.969 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:19:06.710 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:19:06.725 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:20:20.772 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:20:20.882 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:20:20.927 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:20:21.971 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:20:21.998 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 23:20:23.755 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:20:23.805 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:20:23.848 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:20:25.035 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:20:25.053 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:21:33.024 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:21:33.107 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:21:33.135 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:21:38.209 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:21:38.242 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 23:21:41.469 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:21:41.529 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:21:41.554 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:21:43.526 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:21:43.541 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:23:09.152 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:23:09.210 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:23:09.244 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:23:13.052 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:23:13.091 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 23:23:16.789 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:23:16.829 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:23:16.850 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:23:18.373 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:23:18.392 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:32:08.155 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:32:08.217 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:32:08.246 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:32:10.752 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:32:10.783 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-10 23:32:13.037 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:32:13.076 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:32:13.099 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:32:14.669 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:32:14.681 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-10 23:41:50.427 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:41:50.484 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:41:50.506 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:41:50.984 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-10 23:42:21.931 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-10 23:42:21.965 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-10 23:42:21.984 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-10 23:42:22.579 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:18:20.711 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:18:20.865 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:18:20.925 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:18:22.347 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:18:22.380 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:18:24.215 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:18:24.309 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:18:24.369 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:18:26.128 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:18:26.148 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:21:33.858 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:21:34.004 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:21:34.079 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:21:35.136 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:21:35.167 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:21:37.192 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:21:37.307 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:21:37.365 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:21:38.249 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:21:38.269 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:23:39.177 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:23:39.323 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:23:39.390 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:23:42.133 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:23:42.163 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:23:46.114 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:23:46.235 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:23:46.312 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:23:47.021 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:23:47.047 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:23:48.666 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:23:48.732 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:23:48.794 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:23:49.252 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:26:07.293 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:26:07.437 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:26:07.513 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:26:08.444 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:26:08.475 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:26:10.152 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:26:10.258 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:26:10.316 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:26:11.010 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:26:11.034 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:26:12.627 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:26:12.674 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:26:12.715 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:26:13.149 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:33:12.110 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:33:12.253 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:33:12.323 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:33:14.166 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:33:14.200 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:33:16.854 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:33:16.969 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:33:17.027 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:33:17.804 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:33:17.828 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:33:19.504 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:33:19.563 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:33:19.630 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:33:20.035 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:38:14.051 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:38:14.269 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:38:14.387 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:38:16.160 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:38:16.199 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:39:50.861 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:39:51.001 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:39:51.087 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:39:52.041 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:39:52.072 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:41:41.945 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:41:42.087 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:41:42.155 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:41:43.197 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:41:43.231 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:45:32.618 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:45:32.812 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:45:32.950 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:45:34.621 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:45:34.657 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:45:36.213 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:45:36.323 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:45:36.380 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:45:37.054 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:45:37.076 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:48:23.150 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:48:23.309 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:48:23.376 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:48:24.249 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:48:24.284 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:48:25.903 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:48:26.019 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:48:26.078 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:48:27.798 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:48:27.819 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:51:02.925 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:51:03.066 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:51:03.139 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:51:07.129 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:51:07.161 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:51:10.276 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:51:10.383 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:51:10.449 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:51:12.813 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:51:12.845 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:51:17.353 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:51:17.407 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:51:17.466 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:51:18.972 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:54:00.502 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:54:00.647 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:54:00.718 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:54:01.680 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:54:01.712 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login fail
+[INFO ] 2023-11-12 08:57:11.915 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:57:12.109 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:57:12.228 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:57:13.525 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:57:13.565 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:57:16.404 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:57:16.525 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:57:16.602 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:57:17.472 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
+[INFO ] 2023-11-12 08:57:17.506 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - verify login passs
+[INFO ] 2023-11-12 08:57:19.903 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on login
+[INFO ] 2023-11-12 08:57:19.981 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter emai adess
+[INFO ] 2023-11-12 08:57:20.054 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - enter password
+[INFO ] 2023-11-12 08:57:20.537 [main] CodeStudio_DataDrivenFrameWork_Framework_Sessions - click on sign button
